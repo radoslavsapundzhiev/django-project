@@ -166,3 +166,7 @@ cython_debug/
 *.sqlite3
 
 library_env/share
+
+library_env/bin
+
+library_env/lib64
